@@ -1,0 +1,32 @@
+{
+  "n_reviewed": 54,
+  "overall": {
+    "label_wrong": 12,
+    "ambiguous": 12,
+    "model_error": 30
+  },
+  "percent_not_clear_model_error": 44.4,
+  "by_labelled_class": {
+    "HerbaceousVegetation": {
+      "label_wrong": 2
+    },
+    "PermanentCrop": {
+      "ambiguous": 3,
+      "model_error": 19,
+      "label_wrong": 3
+    },
+    "Pasture": {
+      "ambiguous": 7,
+      "model_error": 10,
+      "label_wrong": 3
+    },
+    "River": {
+      "label_wrong": 3,
+      "ambiguous": 2,
+      "model_error": 1
+    },
+    "Forest": {
+      "label_wrong": 1
+    }
+  }
+}

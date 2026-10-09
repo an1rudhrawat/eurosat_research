@@ -1,0 +1,20 @@
+{
+  "error": {
+    "n": 30,
+    "counts": {
+      "clear": 16,
+      "ambiguous": 6,
+      "label_wrong": 8
+    },
+    "percent_unclear": 46.7
+  },
+  "correct": {
+    "n": 30,
+    "counts": {
+      "ambiguous": 7,
+      "clear": 17,
+      "label_wrong": 6
+    },
+    "percent_unclear": 43.3
+  }
+}

@@ -21,6 +21,7 @@ EuroSAT Vision Project/
 │   ├── summarize_review.py    # Summarize the image review
 │   ├── train.py               # Train the model
 │   └── trying_extra.py        # Extra experiments
+├── Assignment_Research       # Part B report
 ├── .gitignore                # Files Git should ignore
 ├── best_model.pth            # Saved model file
 └── README.md                 # Project guide
